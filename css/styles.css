@@ -1,0 +1,139 @@
+body {
+    font-family: 'poppins', sans-serif;
+}
+#title {
+    background-color: #ff4c68;
+}
+.container-fuid {
+    padding: 3% 15%;
+}
+h1 {font-family: 'poppins', sans-serif;
+    color: #fff;
+    font-size: 2.7rem;
+    font-weight: 900;
+    line-height: 1.5;}
+
+h2 {
+    font-family: 'poppins', sans-serif;
+    font-weight: 900;
+}
+
+h3 {
+    font-size: 1.3rem;
+    font-weight: 900;
+}
+    
+.navbar-brand {
+    font-family: Ubuntu;
+    font-weight: 900;
+    font-size: 2rem;
+}
+.nav-item {
+    font-family: 'poppins', sans-serif;
+    font-size: 1rem;
+    font-weight: 900;
+    padding: 5%;
+}
+.navbar {
+    padding: 0 0 4rem;
+}
+.btn {
+    margin: 5% 3% 5% 0;
+    width: 35%;
+    font-size: small;
+    text-align: center;
+}
+
+.iphone-img{
+    width: 57%;
+    right: 50%; 
+}
+#features {
+    padding: 12% 15%;
+    text-align: center;
+    line-height: 1.5;
+    background-color: #fff;
+    position: relative;
+}
+.icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+    
+}
+.icon:hover {
+    color: #ff4c68;
+}
+#testimonials {
+    padding: 7% 15%;
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 5%;
+    color: #fff;
+}
+.img {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+#press {
+    text-align: center;
+    background-color: #ef8172 ;
+    padding-bottom: 3%;
+}
+.ad {
+    width: 15%; 
+    margin: 20px 20px;
+}
+.lady-img {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+.card {
+    text-align: center;
+}
+#pricing {
+    font-family: 'poppins', sans-serif;
+    text-align: center;
+    padding: 100px;
+}
+.pricing-column {
+    padding: 4% 2%;
+    font-size: small;
+}
+.head {
+    font-size: 180%;
+}
+p {
+    font-size: smaller;
+}
+.cash {
+    font-size: 180%;
+}
+.btn-price {
+    margin: 10% 0% 0% 29%;
+    width: 40%;
+    font-size: small;  
+}
+#cta {
+    padding: 8%;
+    background-color: #ff4c68;
+    text-align: center;
+}
+.last {
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight:bolder;
+    color: #fff;
+}
+.btn-last {
+    margin: 5% 2%;
+}
+#footer {
+    text-align: center;
+    padding: 5%;
+}
+.spanSpace{
+    padding-left: 7px;
+    padding-right: 7px;
+}
